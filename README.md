@@ -91,3 +91,8 @@ API conventions
 Testing strategy
 Load-testing reports
 Architecture Decision Records
+
+
+
+- [Local development and Docker](./docs/local-development.md)
+- [API development guide](./docs/api-development.md)
